@@ -1,4 +1,4 @@
-# hexo-filter-sequence
+# hexo-filter-sequence-xingchen
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/hexo-filter-sequence/blob/master/LICENSE)
 
@@ -7,10 +7,14 @@
 
 > Generate UML sequence diagrams for Hexo.
 
+## 2020-11-10
+
+fixed bugs and republish to hexo-filter-sequence-xingchen
+
 ## Install
 
 ```
-npm install --save hexo-filter-sequence
+npm install --save hexo-filter-sequence-xingchen
 ```
 
 ## Usage
