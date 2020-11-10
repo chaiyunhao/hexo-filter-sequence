@@ -2,8 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/hexo-filter-sequence/blob/master/LICENSE)
 
-[![npm:](https://img.shields.io/npm/v/hexo-filter-sequence.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-sequence)
-[![Package Quality](http://npm.packagequality.com/shield/hexo-filter-sequence.svg)](http://packagequality.com/#?package=hexo-filter-sequence)
+[![npm:](https://img.shields.io/npm/v/hexo-filter-sequence.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-sequence-xingchen)
 
 > Generate UML sequence diagrams for Hexo.
 
